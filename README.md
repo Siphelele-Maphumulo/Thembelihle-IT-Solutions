@@ -13,6 +13,8 @@ Enhance your network's performance and reliability with our comprehensive networ
 🎨 Web Design
 Boost your online presence with our creative and responsive web design services. We craft visually stunning websites that engage visitors and create lasting impressions.
 
+![Thembelihle Preview 2](https://github.com/user-attachments/assets/29ee820d-5a63-4d3e-b18e-e6a899dd54a1)
+
 💻 Software Development
 Our developers build custom software solutions to match your exact needs. Whether it’s a web app or an enterprise system, we focus on performance, scalability, and user experience.
 
@@ -26,11 +28,9 @@ Leverage the power of cloud technology with our secure and scalable cloud comput
 Protect your digital assets with our end-to-end cybersecurity services. We implement robust security measures to guard against threats and ensure data integrity.
 
 🎓 Certification and Training
-Empower your team with our industry-re![Thembelihle Preview 2](https://github.com/user-attachments/assets/b47aeec4-1bc4-454d-a647-b75506dae7bf)
+Empower your team with our industry-re![Thembelihle Preview 2]
 cognized IT training and certification programs. Stay competitive with the latest tools, trends, and technologies.
 
-![Thembelihle Preview 1](https://github.com/user-attachments/assets/09b87a86-ffa7-4224-b23a-4ac462487c1b)
-![Thembelihle Preview 2](https://github.com/user-attachments/assets/29ee820d-5a63-4d3e-b18e-e6a899dd54a1)
 ![Thembelihle Preview 3](https://github.com/user-attachments/assets/c8264e5e-eb61-4f8d-99cf-48f02ed2620d)
 
 
